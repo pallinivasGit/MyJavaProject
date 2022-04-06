@@ -10,6 +10,7 @@ public class FirstCalss {
 		
 		System.out.println("Welcome to the world of java");
 		System.out.println("Pallavi shopping website for Makeup and bridal collections");
+		System.out.println("Welcome Gayathri and Chandrakala");
 		System.out.println(x+y);
 		
 		
